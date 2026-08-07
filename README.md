@@ -7,7 +7,7 @@ Neural Engineering, Data Analytics & Applied Science (NEDAAS) Lab
 
 <a href="mailto:arko.koushikbiswas@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/koushikbiswasarko"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/WhatsApp-@koushikbiswasarko-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp @koushikbiswasarko">
+<a href="https://wa.me/@koushikbiswasarko"><img src="https://img.shields.io/badge/WhatsApp-@koushikbiswasarko-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 <a href="https://github.com/koushikbiswasarko"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <!-- Google Scholar? Uncomment and paste your ID:
 <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-D946EF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
