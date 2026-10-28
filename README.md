@@ -1,52 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20,24,30&height=210&section=header&text=Koushik%20Biswas%20Arko&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Vision%20%C2%B7%20Explainable%20AI%20%C2%B7%20Edge%20Intelligence&descSize=18&descAlignY=55" alt="Koushik Biswas Arko — Computer Vision, Explainable AI, Edge Intelligence" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20,24,30&height=210&section=header&text=Koushik%20Biswas%20Arko&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Vision%20%C2%B7%20Explainable%20AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Edge%20and%20IoT%20Systems&descSize=18&descAlignY=55" alt="Koushik Biswas Arko — Computer Vision, Explainable AI, Machine Learning, Edge and IoT Systems" width="100%">
 
-**Research Team Lead — IoT, Robotics & Signal Processing**
-Neural Engineering, Data Analytics & Applied Science (NEDAAS) Lab
 
 <a href="mailto:arko.koushikbiswas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7F1D1D" alt="Email"></a>
 <a href="https://www.linkedin.com/in/koushikbiswasarko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=083D77" alt="LinkedIn"></a>
-<a href="https://wa.me/@koushikbiswasarko"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp"></a>
+<a href="https://wa.me/8801318557547"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp"></a>
 <a href="https://github.com/koushikbiswasarko"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=3B0764" alt="GitHub"></a>
-<!-- Google Scholar? Uncomment and paste your ID:
-<a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A365D" alt="Google Scholar"></a>
--->
+<a href="https://scholar.google.com/scholar?q=Koushik+Biswas+Arko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A365D" alt="Search Google Scholar"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,20,24,30&height=4&section=header" alt="" width="100%">
 
 </div>
 
-I build AI systems that are **efficient, interpretable, and deployable on real hardware** — Raspberry Pi field robots, low-cost ECG screening devices, and IoT agricultural platforms. My work sits where computer vision meets constrained edge deployment, and I care about the parts most papers skip: leakage-controlled validation, energy-per-inference, and whether the thing survives contact with an actual field.
+My work focuses on **efficient, interpretable AI systems for real-world use**, including Raspberry Pi field robots, low-cost ECG screening devices, and IoT agricultural platforms. I work at the intersection of computer vision and edge deployment, with attention to leakage-controlled validation, energy per inference, and performance in field settings.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📄_Published-17_papers-F43F5E?style=for-the-badge&labelColor=881337" alt="17 published papers">
-<img src="https://img.shields.io/badge/⚡_IEEE-15_proceedings-F97316?style=for-the-badge&labelColor=7C2D12" alt="15 IEEE proceedings">
-<img src="https://img.shields.io/badge/📚_Springer-2_chapters-EAB308?style=for-the-badge&labelColor=713F12" alt="2 Springer book chapters">
+<img src="https://img.shields.io/badge/📄_Published-One_Q1_journal article-F43F5E?style=for-the-badge&labelColor=881337" alt="One journal article and 15 conference papers published">
+<img src="https://img.shields.io/badge/⚡_Scopus-15_conference_papers-F97316?style=for-the-badge&labelColor=7C2D12" alt="15 Scopus-indexed conference papers">
+<img src="https://img.shields.io/badge/📚_Published-4_book_chapters-EAB308?style=for-the-badge&labelColor=713F12" alt="Four published book chapters">
 <img src="https://img.shields.io/badge/🧪_In_preparation-4_journals-10B981?style=for-the-badge&labelColor=064E3B" alt="4 journals in preparation">
+<img src="https://img.shields.io/badge/★_First_author-3_publications-7C3AED?style=for-the-badge&labelColor=4C1D95" alt="Three first-author publications">
 <img src="https://img.shields.io/badge/🎓_CGPA-3.80_/_4.00-3B82F6?style=for-the-badge&labelColor=1E3A8A" alt="CGPA 3.80 out of 4.00">
 <img src="https://img.shields.io/badge/🏆_Best_Thesis-Award-A855F7?style=for-the-badge&labelColor=581C87" alt="Best Thesis Paper Award">
 
 </div>
 
-> **B.Sc. Computer Science & Engineering** — American International University-Bangladesh
-> 🏆 Best Thesis Paper Award · 🎖️ Dean's List / Honorable Mention · 📚 11 further papers presented or accepted
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5&height=4&section=header" alt="" width="100%">
+
+## 🎓 Education
+
+| Degree | Institution | Details |
+|:---|:---|:---|
+| 🎓 **M.Sc. Engg. in Computer Science and Engineering** | <img src="https://img.shields.io/badge/MIST-0EA5E9?style=flat-square&labelColor=0C4A6E" alt="MIST"> Military Institute of Science and Technology | <img src="https://img.shields.io/badge/2026–Present-10B981?style=flat-square&labelColor=064E3B" alt="2026 to present"> |
+| 🎓 **B.Sc. in Computer Science and Engineering** | <img src="https://img.shields.io/badge/AIUB-8B5CF6?style=flat-square&labelColor=4C1D95" alt="AIUB"> American International University–Bangladesh | <img src="https://img.shields.io/badge/2022–2026-3B82F6?style=flat-square&labelColor=1E3A8A" alt="2022 to 2026"><br><img src="https://img.shields.io/badge/CGPA-3.80%2F4.00-06B6D4?style=flat-square&labelColor=164E63" alt="CGPA 3.80 out of 4.00"> <img src="https://img.shields.io/badge/Major-Information_Systems-A855F7?style=flat-square&labelColor=581C87" alt="Information Systems major"><br>Thesis: *Generative Framework for Fashion Design* · <img src="https://img.shields.io/badge/Best_Thesis-Award-F43F5E?style=flat-square&labelColor=881337" alt="Best Thesis Paper Award"> |
+| 🎓 **Higher Secondary Certificate, Science** | <img src="https://img.shields.io/badge/Notre_Dame_College-EC4899?style=flat-square&labelColor=831843" alt="Notre Dame College"> Notre Dame College, Dhaka | <img src="https://img.shields.io/badge/GPA-5.00%2F5.00-10B981?style=flat-square&labelColor=064E3B" alt="GPA 5.00 out of 5.00"> |
+| 🎓 **Secondary School Certificate, Science** | <img src="https://img.shields.io/badge/Kushtia_Zilla_School-F97316?style=flat-square&labelColor=7C2D12" alt="Kushtia Zilla School"> Kushtia Zilla School | <img src="https://img.shields.io/badge/GPA-5.00%2F5.00-10B981?style=flat-square&labelColor=064E3B" alt="GPA 5.00 out of 5.00"> |
+
+<img src="https://img.shields.io/badge/Dean’s_List-Honorable_Mention-EAB308?style=flat-square&labelColor=713F12" alt="Dean’s List / Honorable Mention"> <img src="https://img.shields.io/badge/13_Conference_Papers-Presented-F43F5E?style=flat-square&labelColor=881337" alt="13 conference papers presented"> · Selected accepted work is listed below.
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|:---|:---|:---|
+| 🧪 **Research Team Lead — IoT, Robotics & Signal Processing** | <img src="https://img.shields.io/badge/NEDAAS_Lab-06B6D4?style=flat-square&labelColor=164E63" alt="NEDAAS Lab"><br>Neural Engineering, Data Analytics & Applied Science Lab | <img src="https://img.shields.io/badge/Feb_2025–Present-10B981?style=flat-square&labelColor=064E3B" alt="February 2025 to present"> |
+| 🤖 **Generative AI Engineer Intern** | <img src="https://img.shields.io/badge/BorloLabs-F97316?style=flat-square&labelColor=7C2D12" alt="BorloLabs"> | <img src="https://img.shields.io/badge/Feb_2026–May_2026-EAB308?style=flat-square&labelColor=713F12" alt="February 2026 to May 2026"> |
 
 ## 🔬 Current Research
 
 | | Focus | What it does |
 |:---:|---|---|
-| 🎭 | **Multi-class deepfake detection** <br> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Explainable_AI-7C3AED?style=flat-square" alt="Explainable AI"> | Leakage-controlled vision framework with residual attention. Identity- and video-level split protocol to avoid the data leakage that quietly inflates much of this literature — evaluated with Grad-CAM, statistical testing, and external-domain generalization. |
-| 🌾 | **Intelligent weed management** <br> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"> <img src="https://img.shields.io/badge/IoT_Robotics-16A34A?style=flat-square" alt="IoT Robotics"> | Attention-enhanced YOLO for crop–weed detection, wired end-to-end into an IoT mobile platform and robotic arm for targeted removal. |
-| 🫀 | **Cardiovascular screening at the edge** <br> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Edge_AI-F59E0B?style=flat-square" alt="Edge AI"> | Attention-enhanced GRU for beat-to-beat ECG modelling on AD8232 + Raspberry Pi, benchmarked on latency, memory, power, and energy-per-inference for rural healthcare. |
-| 🍓 | **Autonomous crop disease treatment** <br> <img src="https://img.shields.io/badge/Autonomous_Robotics-DB2777?style=flat-square" alt="Autonomous Robotics"> <img src="https://img.shields.io/badge/Precision_Ag-65A30D?style=flat-square" alt="Precision Agriculture"> | A robot that navigates a strawberry field, localizes and classifies diseased plants, returns to a hub for the right treatment, then navigates back for controlled spraying. |
+| 🎭 | **Multi-class deepfake detection** <br> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Explainable_AI-7C3AED?style=flat-square" alt="Explainable AI"> | Leakage-controlled vision framework using residual attention, identity- and video-level splits, Grad-CAM, statistical testing, and external-domain evaluation. |
+| 🌾 | **Intelligent weed management** <br> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"> <img src="https://img.shields.io/badge/IoT_Robotics-16A34A?style=flat-square" alt="IoT Robotics"> | Attention-enhanced YOLO for crop–weed detection, integrated with an IoT mobile platform and robotic arm for targeted removal. |
+| 🫀 | **Cardiovascular screening at the edge** <br> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Edge_AI-F59E0B?style=flat-square" alt="Edge AI"> | Attention-enhanced GRU for beat-to-beat ECG modelling on AD8232 and Raspberry Pi, assessed for latency, memory, power, and energy per inference for rural healthcare. |
+| 🍓 | **Autonomous crop disease treatment** <br> <img src="https://img.shields.io/badge/Autonomous_Robotics-DB2777?style=flat-square" alt="Autonomous Robotics"> <img src="https://img.shields.io/badge/Precision_Ag-65A30D?style=flat-square" alt="Precision Agriculture"> | A robot that navigates a strawberry field, locates and classifies diseased plants, returns to a hub for the selected treatment, and resumes controlled spraying. |
+| 🔗 | **Related code and project links** | Browse [GenAI Assistant](https://github.com/koushikbiswasarko/GenAI-Assistant), [SoilSyncX](https://github.com/koushikbiswasarko/SoilSyncX), [Flood Risk Prediction](https://github.com/koushikbiswasarko/Flood_Prediction), [SmartParkX](https://github.com/koushikbiswasarko/SmartParkX), [LandLinker](https://github.com/koushikbiswasarko/LandLinker), and [Computer Graphics](https://github.com/koushikbiswasarko/Computer_Graphics). |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,12,20&height=4&section=header" alt="" width="100%">
 
 ## 📄 Selected Publications
+
+**Hybrid FEM-ANN prediction and classification of MHD convective heat transfer in a finned cavity**
+<img src="https://img.shields.io/badge/🌳-Elsevier-F97316?style=flat-square&labelColor=7C2D12" alt="Elsevier"> <img src="https://img.shields.io/badge/JIF:_6.2-Q1_Journal_Article_2026-F43F5E?style=flat-square&labelColor=881337" alt="Q1 journal article | JIF: 6.2."> · [DOI](https://doi.org/10.1016/j.icheatmasstransfer.2026.112837)
 
 **SoilSyncX: A Low-Cost IoT-Enabled Smart Irrigation System with LSTM-Assisted Drought Risk Classification and Real-Time Web Monitoring**
 <img src="https://img.shields.io/badge/IEEE_QPAIN_2026-00629B?style=flat-square&logo=ieee&logoColor=white&labelColor=003B5C" alt="IEEE QPAIN 2026"> <img src="https://img.shields.io/badge/★_first_author-F43F5E?style=flat-square&labelColor=881337" alt="first author"> · [DOI](https://doi.org/10.1109/QPAIN69676.2026.11546613)
@@ -66,7 +84,7 @@ I build AI systems that are **efficient, interpretable, and deployable on real h
 **MagnoStromNet: A Dual-Stream Attention-Based Framework for Predicting Power Grid Disruption Risk from Solar Storm Events**
 <img src="https://img.shields.io/badge/IEEE_ICSC_2025-00629B?style=flat-square&logo=ieee&logoColor=white&labelColor=003B5C" alt="IEEE ICSC 2025"> <img src="https://img.shields.io/badge/☀️_Space_Weather-F97316?style=flat-square&labelColor=7C2D12" alt="Space Weather"> · [DOI](https://doi.org/10.1109/ICSC67755.2025.11334732)
 
-<img src="https://img.shields.io/badge/🆕_Recently_accepted-10B981?style=flat-square&labelColor=064E3B" alt="Recently accepted"> ***BrainTD-Net*** (YOLO + hybrid attention for brain tumor detection in MRI, Springer LNNS 2026) and ***DogSkinNet*** (attention-enhanced YOLO for canine skin disease, IEEE ICEFronT 2026).
+<img src="https://img.shields.io/badge/🆕_Recent_work-10B981?style=flat-square&labelColor=064E3B" alt="Recent work"> **BrainTD-Net** (presented at MIET 2026; Springer Nature LNNS) and **DogSkinNet** (attention-enhanced YOLO for canine skin disease, accepted for IEEE ICEFronT 2026).
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=header" alt="" width="100%">
 
@@ -79,9 +97,24 @@ I build AI systems that are **efficient, interpretable, and deployable on real h
 | [**SmartParkX**](https://github.com/koushikbiswasarko/SmartParkX) 🅿️ | Smart parking with RFID auth, infrared slot monitoring, and a web-controlled gate dashboard. <br> <img src="https://img.shields.io/badge/Published_·_IEEE_COMPAS_2025-00629B?style=flat-square&labelColor=003B5C" alt="Published at IEEE COMPAS 2025"> | ![Arduino](https://img.shields.io/badge/-00878F?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-E7352C?style=flat-square&logo=espressif&logoColor=white) ![HTML5](https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [**LandLinker**](https://github.com/koushikbiswasarko/LandLinker) 🏘️ | Full-stack property platform with dynamic filtering, deal management, and payment simulation. | ![PHP](https://img.shields.io/badge/-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | [**GenAI-Assistant**](https://github.com/koushikbiswasarko/GenAI-Assistant) 🤖 | AI assistant using generative techniques for interactive queries and task automation. | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-412991?style=flat-square&logo=openai&logoColor=white) |
+| [**Computer_Graphics**](https://github.com/koushikbiswasarko/Computer_Graphics) 🎨 | Graphics rendering and transformations implemented in C++. | ![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+
+Also developed a **Capital Event Management System** in Java.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,30&height=4&section=header" alt="" width="100%">
 
+## 🏆 Awards and Professional Development
+
+- Dean’s List / Honorable Mention, AIUB, Fall 2023–24.
+- Best Thesis Paper Award, *Generative Framework for Fashion Design*.
+- Finalist (Top 20), Future Builders: AI-Driven Cognitive Innovation Hackathon, 2025.
+- Award for Excellent Performance, AIUB Science Poster Contest, Spring 2022–23.
+- Best Volunteer Award, 10th National Drama Carnival, 2020.
+- First Place, Science Project, Astro Olympiad, 2017.
+- Microsoft Office Specialist: PowerPoint Associate (Office 2019), May 2025.
+- Data Analysis with Python, IIT Jahangirnagar University / EDGE Project, Nov 2024–Jan 2025, 80 hours.
+- IT Essentials, Cisco Networking Academy, 2022.
+- Certificate in Computer Application, Computer Space Institute, 2018.
 ## ⚙️ Toolkit
 
 <div align="center">
@@ -122,6 +155,9 @@ I build AI systems that are **efficient, interpretable, and deployable on real h
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Microsoft Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![NI Multisim](https://img.shields.io/badge/NI_Multisim-0082C9?style=for-the-badge)
 
 </div>
 
@@ -131,11 +167,11 @@ I build AI systems that are **efficient, interpretable, and deployable on real h
 
 ## 📫 Let's talk
 
-Open to **research roles, graduate study, and applied R&D** in computer vision, edge AI, and intelligent systems.
+Open to **research roles, graduate study, applied R&D, and teaching undergraduate computing** in computer vision, explainable AI, edge and IoT systems, and intelligent systems. I am also interested in mentoring applied research.
 
 <a href="mailto:arko.koushikbiswas@gmail.com"><img src="https://img.shields.io/badge/arko.koushikbiswas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7F1D1D" alt="Email arko.koushikbiswas@gmail.com"></a>
 <a href="https://www.linkedin.com/in/koushikbiswasarko"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=083D77" alt="Connect on LinkedIn"></a>
-<a href="https://wa.me/@koushikbiswasarko"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp"></a>
+<a href="https://wa.me/8801318557547"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp"></a>
 <a href="https://github.com/koushikbiswasarko"><img src="https://img.shields.io/badge/Follow_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=3B0764" alt="Follow on GitHub"></a>
 
 <sub>📍 Dhaka, Bangladesh</sub>
@@ -143,3 +179,7 @@ Open to **research roles, graduate study, and applied R&D** in computer vision, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20,24,30&height=130&section=footer" alt="" width="100%">
 
 </div>
+
+
+
+
